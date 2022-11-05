@@ -1,1 +1,1 @@
-# Reinforcement-Autonomous-Driving
+This project was my first occurrence of using a neural network to hands off teach an object to move about a pygame scene with certain parameters. This project utilized the NEAT library and configuration to control the neural network and to display this project I used pygame.
